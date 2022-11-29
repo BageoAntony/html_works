@@ -1,0 +1,48 @@
+.head{
+    padding-left:50%;
+    color: aliceblue;
+}
+body{
+    margin: 0px;
+    background-color: rgb(78, 75, 75);
+  }
+
+.row{
+    width: 95%;
+    height: 90%;
+    border: 1px solid rgb(182, 180, 180);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    min-height: 600px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.cam{
+    
+    
+    height: 500px;
+    border: 1px black solid;
+    
+    
+}
+.fuji{
+  background-color: aquamarine;
+  padding-left: 8px;
+  
+}
+
+.can{
+  background-color: bisque;
+  padding-left: 8px;
+  
+}
+
+.nik{
+  background-color: rgb(123, 142, 236);
+  padding-left: 8px;
+}
+.son{
+    background-color: rgb(176, 246, 123);
+    padding-left: 8px;
+}
