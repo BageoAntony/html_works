@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+  }
+.section{
+    float: left;
+    width: 300px;
+    height: 150px;
+    border: 1px black solid;
+    
+}
+.first-div{
+  background-color: aquamarine;
+  margin-left: 120px;
+  margin-top: 20px;
+ text-align: center;
+ padding-top: 8%;
+}
+
+.second-div{
+  background-color: bisque;
+  margin-top: 20px;
+  margin-left: 10px;
+ text-align: center;
+ padding-top: 8%;
+}
+
+.third-div{
+  background-color: rgb(123, 142, 236);
+  margin-top: 20px;
+  margin-left: 10px;
+  text-align: center;
+  padding-top: 8%;
+}
+.fourth-div{
+    background-color: rgb(176, 246, 123);
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 8%;
+}

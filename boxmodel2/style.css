@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+  }
+
+.row{
+    width: 90%;
+    border: 1px solid rgb(182, 180, 180);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    min-height: 300px;
+}
+.section{
+    float: left;
+    width: 24%;
+    height: 200px;
+    border: 1px black solid;
+    margin-left: 10px;
+    
+}
+.first-div{
+  background-color: aquamarine;
+  
+}
+
+.second-div{
+  background-color: bisque;
+  
+}
+
+.third-div{
+  background-color: rgb(123, 142, 236);
+  
+}
+.fourth-div{
+    background-color: rgb(176, 246, 123);
+}

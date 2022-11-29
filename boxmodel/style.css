@@ -1,0 +1,30 @@
+.section{
+      width: 300px;
+      height: 150px;
+      border: 1px black solid;
+      
+}
+.top-div{
+    background-color: aquamarine;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 25px;
+    
+}
+
+.bottom-div{
+    background-color: bisque;
+    margin-top: 6%;
+    margin-left: 35%;
+    padding: 30px;
+}
+body{
+    margin: 0px;
+}
+.main-div{
+    background-color: rgb(123, 142, 236);
+    margin-top: 5%;
+    margin-left: 15%;
+    padding: 35px;
+}
